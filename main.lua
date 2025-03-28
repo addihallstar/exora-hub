@@ -1,4 +1,4 @@
-local Exora = loadstring(game:HttpGet("https://raw.githubusercontent.com/addihallstar2/exora-hub/main.lua"))()
+local Exora 
 
 Exora:CreateWindow({
     Name = "Exora Hub",
